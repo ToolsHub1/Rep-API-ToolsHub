@@ -1,0 +1,9 @@
+npm init -y
+npm install express dotenv axios
+project-folder/
+├── server.js
+├── .env
+└── services/
+    ├── badReviewRemoval.js
+    ├── listingProfileDeletion.js
+    └── autoBadReviewRemoval.js
